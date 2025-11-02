@@ -6,7 +6,7 @@ h1{
 	text-align:center
 }
 .task1{
-	border:2px solid black;
+	border:1px solid black;
 	border-radius:10px;
 
 	background-color:white
@@ -22,8 +22,8 @@ h2{
 .task2{
 	border-radius:10px;
 	background-color:white;
-	border:2px solid black;
-	padding:20px;
+	border:1px solid black;
+	padding:10px;
 	text-align:center;
 	margin:40px;
 }
